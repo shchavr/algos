@@ -1,0 +1,16 @@
+C:\Users\Morev\source\repos\laba2popitka2\laba2popitka2\obj\Debug\laba2popitka2.csproj.AssemblyReference.cache
+C:\Users\Morev\source\repos\laba2popitka2\laba2popitka2\obj\Debug\laba2popitka2.csproj.CoreCompileInputs.cache
+C:\Users\Morev\source\repos\laba2popitka2\laba2popitka2\bin\Debug\laba2popitka2.exe.config
+C:\Users\Morev\source\repos\laba2popitka2\laba2popitka2\bin\Debug\laba2popitka2.exe
+C:\Users\Morev\source\repos\laba2popitka2\laba2popitka2\bin\Debug\laba2popitka2.pdb
+C:\Users\Morev\source\repos\laba2popitka2\laba2popitka2\obj\Debug\laba2popitka2.exe
+C:\Users\Morev\source\repos\laba2popitka2\laba2popitka2\obj\Debug\laba2popitka2.pdb
+C:\Users\Morev\source\repos\laba2popitka2\laba2popitka2\bin\Debug\input.txt
+C:\учеба\2 КУРС\2 СЕМ\Алоритмы и анализ сложности\лабы\RSA\laba2popitka2\laba2popitka2\laba2popitka2\bin\Debug\input.txt
+C:\учеба\2 КУРС\2 СЕМ\Алоритмы и анализ сложности\лабы\RSA\laba2popitka2\laba2popitka2\laba2popitka2\bin\Debug\laba2popitka2.exe.config
+C:\учеба\2 КУРС\2 СЕМ\Алоритмы и анализ сложности\лабы\RSA\laba2popitka2\laba2popitka2\laba2popitka2\bin\Debug\laba2popitka2.exe
+C:\учеба\2 КУРС\2 СЕМ\Алоритмы и анализ сложности\лабы\RSA\laba2popitka2\laba2popitka2\laba2popitka2\bin\Debug\laba2popitka2.pdb
+C:\учеба\2 КУРС\2 СЕМ\Алоритмы и анализ сложности\лабы\RSA\laba2popitka2\laba2popitka2\laba2popitka2\obj\Debug\laba2popitka2.csproj.AssemblyReference.cache
+C:\учеба\2 КУРС\2 СЕМ\Алоритмы и анализ сложности\лабы\RSA\laba2popitka2\laba2popitka2\laba2popitka2\obj\Debug\laba2popitka2.csproj.CoreCompileInputs.cache
+C:\учеба\2 КУРС\2 СЕМ\Алоритмы и анализ сложности\лабы\RSA\laba2popitka2\laba2popitka2\laba2popitka2\obj\Debug\laba2popitka2.exe
+C:\учеба\2 КУРС\2 СЕМ\Алоритмы и анализ сложности\лабы\RSA\laba2popitka2\laba2popitka2\laba2popitka2\obj\Debug\laba2popitka2.pdb
