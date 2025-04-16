@@ -1,7 +1,0 @@
-<experiments>
-    <experiment Length="100" Counts="50"/>
-    <experiment Length="200" Counts="50"/>
-    <experiment Length="400" Counts="50"/>
-    <experiment Length="800" Counts="50"/>
-</experiments>
-    
